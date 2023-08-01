@@ -15,4 +15,8 @@
         "markdown",
         "graphql"
     ],
+    "eslint.debug": true,
+    "[graphql]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
 }
