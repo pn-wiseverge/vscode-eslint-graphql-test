@@ -1,0 +1,7 @@
+{
+  "verbose": true,
+  "ext": "ts,graphql,json,env",
+  "execMap": {
+    "ts": "ts-node --esm"
+  }
+}

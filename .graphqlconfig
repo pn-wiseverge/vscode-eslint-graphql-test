@@ -1,0 +1,4 @@
+{
+  "name": "GraphQL Schema",
+  "schema": ["./src/graphql/**/*.graphql"]
+}
