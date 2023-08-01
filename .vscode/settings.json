@@ -2,6 +2,17 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
+    "eslint.enable": true,
     "eslint.format.enable": true,
-    "files.insertFinalNewline": true
+    "files.insertFinalNewline": true,
+    "eslint.probe": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "html",
+        "vue",
+        "markdown",
+        "graphql"
+    ],
 }
